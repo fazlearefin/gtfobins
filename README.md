@@ -1,0 +1,2 @@
+# gtfobins
+Keep GTFOBins offline
